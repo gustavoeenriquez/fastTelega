@@ -6,7 +6,9 @@ This library is still under development and does not implement full functionalit
 
 And so far only the mechanism is available long polling.
 
-Documentation is located [here](Doc).
+## Documentation
+- Documentation (*.chm) is located [here](Doc).
+- The deepwiki documentation is more detailed and deep-searchable using AI [here](deepwiki.com/alexsherkhan/fastTelega).
 
 ## Example 
 
