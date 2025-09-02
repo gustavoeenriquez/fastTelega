@@ -8,7 +8,7 @@ And so far only the mechanism is available long polling.
 
 ## Documentation
 - Documentation (*.chm) is located [here](Doc).
-- The deepwiki documentation is more detailed and deep-searchable using AI [here](deepwiki.com/alexsherkhan/fastTelega).
+- The deepwiki documentation is more detailed and deep-searchable using AI [here](https://deepwiki.com/alexsherkhan/fastTelega).
 
 ## Example 
 
